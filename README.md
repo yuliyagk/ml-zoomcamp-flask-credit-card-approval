@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="Bordeaux-silbernes Banner zur Kreditkartenfreigabe" src="https://github.com/user-attachments/assets/095bb114-54aa-40ba-b56e-3dda447b4bb8" />
+
 ## ML Model Evaluation and Deployment with Flask (ML Zoomcamp)
 
 This project is part of the Machine Learning Zoomcamp by DataTalksClub.
